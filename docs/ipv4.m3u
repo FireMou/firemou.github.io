@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视高清",CCTV-1 综合
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视高清",CCTV-2 财经
 http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYpSLOWx8KnbAEA%2FNlMdpMt4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视高清",CCTV-3 综艺
